@@ -1,0 +1,4 @@
+enum PackNumberAction {
+  Add,
+  Remove,
+}
